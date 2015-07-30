@@ -1,0 +1,39 @@
+go to phpmyadmin there i have created database news in that news table have 4 attributes i have forget to auto-increment id field try to edit and make id field auto-incement(when we create it give us option auto-increment) if u cannot do then recreate database by deleting existing one. its four fields r 1:id int AUTO-INCREMENT 2:title varchar100 3:body text 4:date of type date
+
+id:1
+
+title:BTA employee returns wallet containing more than $900
+
+body:By Melissa Werthmann, Boston Globe
+
+The person who left a wallet containing more than $900 on an MBTA bus has been reunited with the money, thanks to an honest MBTA employee. Read more at boston.com.
+
+date:24/10/2012
+
+//
+id:2
+
+title:Orient Heights Station Makeover
+
+body:By John Lynds, East Boston Times-Free Press
+
+The $51 million project to replace the decaying Orient Heights MBTA station on Bennington Street is in full swing and, according to the MBTA, major construction should last until spring of 2014. Read more about this makeover at eastietimes.com.
+
+Date: 25/10/2012
+
+//
+
+ id:3
+
+title:BTA Prepares for Hurricane Sandy
+
+body: Normal Sunday service will operate Sunday, October 28, 2012
+
+The MBTA is tracking Hurricane Sandy closely to determine the impact of the storm on our service. While forecasts change almost hourly, the MBTA is preparing for the impact of the storm beginning Monday into Tuesday morning. As conditions require, the MBTA will deploy extra personnel and equipment throughout the system, the limit any disruptions in service. Work crews are ready to respond to any storm-related issues that may emerge.
+Customer Safety Tips 
+• Check weather forecasts before going out and limit travel at the height of the storm. 
+• Use caution on wet surfaces, especially platforms, stairs, and escalators. 
+• At outdoor stations, take cover if possible especially due to high winds forecasted during the storm. 
+
+date:26/10/2012
+

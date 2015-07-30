@@ -1,0 +1,143 @@
+div.logo
+{
+	margin-left:0cm;
+	margin-right:3cm;
+}
+/*div.header
+//{
+//background-color:red;
+//width:80%;
+//padding:10px;
+//border:5px solid gray;
+//margin-left:41cm;
+}*/
+#body
+{
+font-family:arial;
+/*background-color:green;*/
+background-image:-webkit-gradient(linear,left top,right top,color-stop(0.1,#33cc00),color-stop(0.3,
+		#7AFC39),color-stop(0.90,#33cc00));
+
+}
+#table
+{
+background-color:#36648b;
+table-layout:fixed;
+width:80%;
+font-size:80%;
+margin-left:4cm;
+margin-top:0.5cm;
+margin-right:2cm;
+}
+
+#abc/*rows of only navbar not d hidden menus*/
+{
+font-size:20px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+text-align:center;
+//height:30px;
+background-color:#ff0000;
+}
+table.menu/*alignment of hidden menus*/
+{
+
+margin-left:0cm;
+margin-top:0cm;
+margin-right:0cm;
+width:215px;
+font-size:100%;
+position:absolute;
+visibility:hidden;
+font-family:Comic Sans MS;
+//height:50px;
+}
+td.menu/*color of hidden menus*/
+{
+//background-color:#ff4000;
+border:3px solid;
+height:30px;
+//background:lightblue;
+}
+#developers
+{
+margin-left:5cm;
+margin-top:1.5cm;
+width:52%;
+//background-color:#6BC3EB;
+height:225px;
+float:left;
+}
+#news
+{
+margin-top:0.5cm;
+margin-left:25cm;
+background-color:#6BABEB;
+font-size:20px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+height:250px;
+width:35%;
+/*margin-right:5cm;*/
+}
+#places:hover
+{
+-webkit-transform: scale(1.05,1.05);
+}
+#places
+{
+
+margin-left:5cm;
+margin-top:0.5cm;
+background-color:#A4D3EE;
+height:250px;
+width:37%;
+float:left;
+}
+#video
+{
+margin-left:32cm;
+margin-top:0cm;
+}
+a
+{
+color:black;
+text-decoration:none;
+font:bold;
+}
+a:hover
+{
+color:#606060
+}
+#footer
+{
+background-color:#ff0000;
+margin-left:4cm;
+margin-top:0.75cm;
+height:30px;
+text-align:left;
+width:80%;
+border:5px solid;
+ border-radius:10px;
+ border-color:#ff0000;
+ font-size:20px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+}
+#landmarktitle
+{
+margin-left:5cm;
+margin-top:0.5cm;
+background-color:#6BABEB;
+height:40px;
+width:37%;
+font-size:25px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+}
+#newstitle
+{
+margin-left:25cm;
+margin-top:-1cm;
+background-color:#6BABEB;
+height:40px;
+width:35%;
+font-size:30px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+}
